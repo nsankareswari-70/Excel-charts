@@ -20,5 +20,9 @@ PivotTable is a functionality in Excel that helps to organize and analyze data.
 It allows adding and removing values, performing calculations, and filtering and sorting data sets.    
 
 PivotTable helps you structure and organize data to understand large data sets.    
-![img alt](https://github.com/nsankareswari-70/Excel-charts/blob/e209557638ae4a09d18917bb8ce3c7cb1b6fe235/ex81.png)0
+![img alt](https://github.com/nsankareswari-70/Excel-charts/blob/e209557638ae4a09d18917bb8ce3c7cb1b6fe235/ex81.png)
+
+## Excel case 1:
+
+
 
