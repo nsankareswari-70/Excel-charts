@@ -23,6 +23,7 @@ PivotTable helps you structure and organize data to understand large data sets.
 ![img alt](https://github.com/nsankareswari-70/Excel-charts/blob/e209557638ae4a09d18917bb8ce3c7cb1b6fe235/ex81.png)
 
 ## Excel case 1:
+![img alt](https://github.com/nsankareswari-70/Excel-charts/blob/a63024bd501619dcf6c37f5358a32ab68393d1c4/ex82.png)
 
 
 
