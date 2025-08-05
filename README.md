@@ -9,7 +9,7 @@
 ## Pie chart
 ![img alt](https://github.com/nsankareswari-70/Excel-charts/blob/21ea405bd9313098af0a2179c3bb09b029223118/ex77.png)
 ## Doughnut chart
-
+![img alt](https://github.com/nsankareswari-70/Excel-charts/blob/0d6e53f0db7184aab8cf2f8e40878dee8fbcffde/ex78.png)
 
 
 
