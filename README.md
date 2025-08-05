@@ -13,5 +13,11 @@
 ## Filled Radar chart
 ![img alt](https://github.com/nsankareswari-70/Excel-charts/blob/d75da18d2d74239913de6db63dab3672cca639a7/ex79.png)
 
+## Pivot Table
 
+PivotTable is a functionality in Excel that helps to organize and analyze data.     
+
+It allows adding and removing values, performing calculations, and filtering and sorting data sets.    
+
+PivotTable helps you structure and organize data to understand large data sets.    
 
