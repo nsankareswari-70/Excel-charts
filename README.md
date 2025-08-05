@@ -25,5 +25,15 @@ PivotTable helps you structure and organize data to understand large data sets.
 ## Excel case 1:
 ![img alt](https://github.com/nsankareswari-70/Excel-charts/blob/a63024bd501619dcf6c37f5358a32ab68393d1c4/ex82.png)
 
+Prices for items   
+Range C2:D8 calculates the prices by multiplying item price and shop cart   
 
+Sub total   
+The SUM function adds the range C2:C8    
+
+Add discount    
+The discount is calculated by using F11(10) into the formula in B11    
+
+Total price    
+Total price is calculated by subtracting the discount from the subtotal    
 
